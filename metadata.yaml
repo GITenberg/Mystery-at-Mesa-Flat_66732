@@ -1,0 +1,23 @@
+_repo: Mystery-at-Mesa-Flat_66732
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jorgensen, Ivar
+    gutenberg_agent_id: '53466'
+    url: http://www.gutenberg.org/2009/agents/53466
+    wikipedia:
+    - https://www.gutenberg.org/ebooks/author/28358
+    - https://www.gutenberg.org/ebooks/author/25267
+    - https://www.gutenberg.org/ebooks/author/9567
+description: ''
+gutenberg_issued: '2021-11-14'
+identifiers:
+  gutenberg: '66732'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mystery at Mesa Flat
+url: http://www.gutenberg.org/ebooks/66732
